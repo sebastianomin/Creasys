@@ -12,6 +12,7 @@ public class Domanda1 {
 			
 		}
 		int media=somma/v.length;
+		
 		System.out.println("La media è: "+media);
 		
 	}
